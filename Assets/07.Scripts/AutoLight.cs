@@ -26,7 +26,7 @@ public class AutoLight : MonoBehaviour {
 
         if (flag)
         {
-            inLight.color = Color.Lerp(inLight.color, Color.yellow, Time.deltaTime * 3f);
+            inLight.color = Color.Lerp(inLight.color, Color.red, Time.deltaTime * 3f);
         }
         else
         {
