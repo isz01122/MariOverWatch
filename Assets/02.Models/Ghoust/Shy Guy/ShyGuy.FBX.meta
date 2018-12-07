@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 0c2189ee894bc4f819eebfa3eabadcb4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bone_root
+    100002: Head
+    100004: Hips
+    100006: Hood
+    100008: LeftArm
+    100010: LeftFoot
+    100012: LeftForeArm
+    100014: LeftHandItem
+    100016: LeftLeg
+    100018: LeftSkirtA
+    100020: LeftSkirtB
+    100022: LeftSkirtC
+    100024: LeftToeBase
+    100026: Pelvis
+    100028: pos_center
+    100030: RightArm
+    100032: RightFoot
+    100034: RightForeArm
+    100036: RightHandItem
+    100038: RightLeg
+    100040: RightSkirtA
+    100042: RightSkirtB
+    100044: RightSkirtC
+    100046: RightToeBase
+    100048: rot_center
+    100050: //RootNode
+    100052: ShyGuy
+    100054: Spine
+    100056: Spine1
+    400000: bone_root
+    400002: Head
+    400004: Hips
+    400006: Hood
+    400008: LeftArm
+    400010: LeftFoot
+    400012: LeftForeArm
+    400014: LeftHandItem
+    400016: LeftLeg
+    400018: LeftSkirtA
+    400020: LeftSkirtB
+    400022: LeftSkirtC
+    400024: LeftToeBase
+    400026: Pelvis
+    400028: pos_center
+    400030: RightArm
+    400032: RightFoot
+    400034: RightForeArm
+    400036: RightHandItem
+    400038: RightLeg
+    400040: RightSkirtA
+    400042: RightSkirtB
+    400044: RightSkirtC
+    400046: RightToeBase
+    400048: rot_center
+    400050: ShyGuy
+    400052: //RootNode
+    400054: Spine
+    400056: Spine1
+    2100000: body_a
+    2100002: body_b
+    2100004: ref_b2
+    2100006: ref_b
+    4300000: ShyGuy
+    9500000: //RootNode
+    13700000: ShyGuy
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
